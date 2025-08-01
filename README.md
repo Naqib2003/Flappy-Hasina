@@ -37,3 +37,8 @@ If you're a random guy looking for entertainment — welcome to the circus 🎪.
 ---
 
 > **Note:** No real birds, politicians, or feelings were harmed in the making of this game. (Okay, maybe feelings.)
+
+
+Where to play ? 
+Simply download the .exe file in the tag section of this repository . As I couldn't make a web version right now you have to download and then play . Kindly download the flappy-hasina.exe file . Then you are good to go . 
+
